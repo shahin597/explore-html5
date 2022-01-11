@@ -1,0 +1,21 @@
+nav li {
+    list-style: none;
+}
+
+nav li a {
+    text-decoration: none;
+    color: brown;
+    margin-right: 10px;
+    font-size: 20px;
+    padding: 0 10px;
+
+}
+
+nav li:hover {
+    background-color: coral;
+}
+
+nav ul {
+    display: flex;
+
+}
